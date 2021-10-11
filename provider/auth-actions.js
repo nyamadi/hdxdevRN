@@ -1,0 +1,9 @@
+const authActions = {
+  SAVE_TOKEN: 'GET_TOKEN',
+  HAS_COMPLETED_ONBOARDING: 'HAS_COMPLETED_ONBOARDING',
+  SET_TOKEN: 'SET_TOKEN',
+  SET_USER: 'SET_USER',
+  LOGOUT_USER: 'LOGOUT_USER',
+};
+
+export default authActions;
